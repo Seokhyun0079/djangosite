@@ -1,3 +1,4 @@
 djangosite/settings.py
 djangosite/__pycache__/*
 **/*.pyc
+polls/static/polls/images/background.png
